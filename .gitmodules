@@ -1,0 +1,3 @@
+[submodule "jsonValidator"]
+	path = jsonValidator
+	url = https://github.com/packntrack/jsonValidator
